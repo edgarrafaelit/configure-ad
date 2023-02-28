@@ -174,7 +174,7 @@ Create a new user called Jane Does and give her the username jane_admin. (It was
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Adding Jane to Domain Admins Security Group"/>
+<img src="https://i.imgur.com/Wnox9qZ.png" height="80%" width="80%" alt="Adding Jane to Domain Admins Security Group"/>
 </p>
 <p>
 Add user Jane Does to Security Group: Domain Admins
