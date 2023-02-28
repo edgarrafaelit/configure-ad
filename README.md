@@ -246,7 +246,7 @@ From the system settings of Client-1 go into Remote Desktop Protocol then Select
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Powershell script to create new user accounts"/>
+<img src="https://i.imgur.com/cUCHfbF.png" height="80%" width="80%" alt="Powershell script to create new user accounts"/>
 </p>
 <p>
 From inside DC-1 open Powershell ISE as an administrator. Paste the contents of <a href="https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1">this script</a> into Powershell.
